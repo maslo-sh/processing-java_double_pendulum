@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+out/
+processing_lib/
+
+*.jar
+*.iml
